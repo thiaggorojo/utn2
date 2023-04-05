@@ -1,0 +1,57 @@
+
+
+
+
+
+h2 {/* selector global */
+    color: blueviolet;
+    font-size: 45px;
+    background-color: black;
+    text-align: center;
+}
+/* selectore de clase */
+.soloyo{
+    text-align: left;
+    color: darkgreen;
+    background-color: cyan;
+    font-size: 60px;
+}
+/* selector por id */
+#hola{
+    color: brown;
+}
+
+h3 {
+
+    background-color: blue;
+    border-top: solid 3px black;
+    border-right: dashed 8px blue;
+    border-bottom: solid 3px black;
+    border-left: dotted 3px rgb(255, 0, 128);
+    /* relleno */
+    padding-top: 35px;
+    padding-left: 500px;
+    padding-bottom: 25px;
+
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+ul{
+    text-align:center 
+   
+}
+
+ul li{
+
+    list-style-type: none;
+    display: inline-block;
+    margin: 15px;
+    padding: 25px;
+    border: 1px solid black;
+    background-color: gray;
+  
+   
+}
