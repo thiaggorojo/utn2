@@ -1,12 +1,19 @@
 
+*{ 
+    font-family: 'Alkatra', cursive;
+}
 
+body{
+background: linear-gradient(rgb(255, 0, 0),black, rgb(68, 216, 10));
+ 
+}
 
 
 
 h2 {/* selector global */
-    color: blueviolet;
+    color: rgb(0, 0, 0);
     font-size: 45px;
-    background-color: black;
+    background-color: rgb(255, 102, 0);
     text-align: center;
 }
 /* selectore de clase */
