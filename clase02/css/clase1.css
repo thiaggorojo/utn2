@@ -1,0 +1,32 @@
+body{
+   background: linear-gradient(rgb(0, 168, 235), white);
+}
+.principal{
+   border: 3px solid black;
+    display: flex;
+   flex-direction:row;
+   padding: 20px;
+   flex-wrap: wrap;
+   justify-content: center;
+ justify-content:space-between;
+
+   
+
+}
+
+.secciones{
+    border: 2px solid white;
+   margin-bottom: 30px;
+
+    
+}
+
+
+p{
+    width: 400px;
+}
+
+
+.secciones :hover{
+    width: 100%;
+}
